@@ -182,8 +182,8 @@ hr.streams {
 
 
 ul {
- list-style-type: none;
- list-style: none; 
+ list-style-type: circle;
+ list-style: circle; 
 }
 
 
