@@ -27,7 +27,7 @@ Froukje van de Klundert
 Michiel de Lange
 Martijn de Waal 
 
-# Colofon 
+# Colophon 
 
 Cristina Ampatzidou, Matthijs Bouw, Froukje van de Klundert, Michiel de Lange, Martijn de Waal 
 
@@ -39,16 +39,16 @@ The Hackable City: A Research Manifesto and Design Toolkit
 
 **Copy-editor** Russell Kinch
 
-**Printer** [name]
+**Printer** Offsetdrukkerij Nuance, Zaandam
 
 **Publisher** Amsterdam Creative Industries Publishing, Rose Leighton
 
 **Supported by** Amsterdam University of Applied Sciences (Hogeschool van
 Amsterdam), PublishingLab
 
-**Cover image** [name]
+**Cover image** Marc Faasse (www.ndsm.nl/speeltuin)
 
-**Photograpy** [name]
+**Photography** [name]
 
 **Contact** Amsterdam Creative Industries Publishing,
 www.amsterdamcreativeindustries.com
@@ -61,16 +61,16 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
 
 Amsterdam, December 2015
 
-**ISBN** (print)
+**ISBN** 978-94-92171-04-7 (print)
 
-**ISBN** (ePub)
+**ISBN** 978-94-92171-05-4 (ePub)
 
-[ logo’s: uva, hva, uu, pakhuis de zwijger, min bzk, one architecture - net als bij eerdere KM-boekjes]
+[ logo’s: uva, hva, uu, pakhuis de zwijger, min bzk, one architecture - CHECK]
 
 
 #Contents
 
-Introduction: the rise of the platform society
+Introduction: the Rise of the Platform Society
 
 A Hackable City Research Manifesto 
 
@@ -83,7 +83,7 @@ Conclusion
 
 #Acknowledgements
 
-The Hackable City is an on-going research project on the role of digital
+The Hackable City is a research project on the role of digital
 media in the process of citymaking that resulted from cooperation
 between One Architecture and The Mobile City Foundation. The project
 investigates the opportunities of digital media technologies for the
@@ -101,15 +101,13 @@ funded by the Creative Industries Research Centre Amsterdam, with
 contributions from Utrecht University. In 2014, funding was received
 from the Netherlands Organization for Scientific Research (NWO) for both
 a KIEM-exploration through Utrecht University and a Creative Industries
-research project hosted at the University of Amsterdam, The Amsterdam
+research project hosted at the University of Amsterdam (UvA), The Amsterdam
 University of Applied Sciences (AUAS), and One Architecture. For the
 latter, new partners joined the research coalition: The Ministry of the
-Interior and Kingdom Relations, Pakhuis de Zwijger, and the Cooperation
-for the Development of Buiksloterham.
+Interior and Kingdom Relations, Pakhuis de Zwijger, and Buiksloterham.
 
 Current Research Team: Matthijs Bouw (Researcher, Director One Architecture); Tara Karpinski (Embedded Researcher, University of Amsterdam & One Architecture);
-Froukje van de Klundert (Embedded Researcher, University of Amsterdam &
-One Architecture); Michiel de Lange (Researcher, Utrecht University);
+Froukje van de Klundert (Embedded Researcher, University of Amsterdam); Michiel de Lange (Researcher, Utrecht University);
 Karel Millenaar (Designer, AUAS); Martijn de Waal (Project leader, UvA /
 AUAS)
 
@@ -178,7 +176,7 @@ digital media platforms. Whether it’s finding a taxi through Uber,
 arranging a date through Tinder, connecting with neighborhood-dwellers
 to collectively start a solar energy initiative or searching for
 fellow-enthusiasts to turn parking places into ‘parklets’ (small parks
-the size of a parking place), it seems that – as a current
+the size of a parking place), it seems that, as a current
 tech-commercial claimed: *there’s an app for that*. Or at least a
 neighborhood blog, an Instructable-video, an online forum, a
 crowdsourcing tool, a social network, or any other kind of digital media
@@ -192,9 +190,7 @@ appropriate the physical city and its social life. To put it in the
 terminology of this research project: in the platform society it may
 become easier to ‘hack’ the existing fabric of our cities and
 appropriate it for our own uses, whether it’s temporarily converting our
-apartment into a hotel, or mobilizing ‘friends’ at a public park -
-notwithstanding whether it’s for a communal bbq, a political rally or a
-riot against the powers that be. As a consequence, we may make use of
+apartment into a hotel, or mobilizing ‘friends’ at a public park - whether it’s for a communal bbq, a political rally or a riot against the powers that be. As a consequence, we may make use of
 our urban infrastructures in more efficient ways and find more flexible
 ways to program our cities, mobilize crowds, organize communities,
 activate places and negotiate transactions.
@@ -214,7 +210,7 @@ of technocratic urban governance.
 
 This publication, consisting of a ‘Hackable City Research Manifesto‘ and
 a ‘Hackable City Toolkit’, aims to offer an inroad to grasp these
-developments as well as a practical guide to act upon them: What
+developments as well as a practical guide to act upon them. What
 opportunities, as well as challenges, does the rise of the platform
 society pose for an open, democratic process of collaborative
 citymaking? And how can citizens, design professionals, local government
@@ -324,6 +320,7 @@ reflections on the process of hackable citymaking. What points of
 further developing ‘hackable city making’ need our attention, both in
 research, design and policy?
 
+#A Hackable City Research Manifesto
 We have found the notion of hackability a useful lens to approach the
 increasing role of digital media in our urban societies, as well as to
 reflect on the changing relations between various parties in the process
@@ -381,13 +378,13 @@ more efficient. Among the issues that smart city policies seek to
 address are mobility, clean energy, water and food production and
 distribution, health, living and public participation (Hollands, 2008).
 Whereas that in itself could be a positive force, many of these visions
-have received wide criticism (see for example: (Greenfield, 2013;
+have received wide criticism (see for example: Greenfield, 2013;
 Hemment & Townsend, 2013). By and large these criticisms have focussed
 on the ill-defined notion of “smartness” in smart city visions, targeted
 the simplified view of what cities actually are, and attacked their
-apolitical technocratic nature (see also (Allwinkle & Cruickshank, 2011;
+apolitical technocratic nature (see also Allwinkle & Cruickshank, 2011;
 Gabrys, 2014; Kitchin, 2013; Ratti & Townsend, 2011; Söderström,
-Paasche, & Klauser, 2014)
+Paasche, & Klauser, 2014).
 
 What does “smart” mean and who are actually supposed to be smart? Is
 city life and the urban experience about control, efficiency and
@@ -498,9 +495,8 @@ description of historic hacker cultures, it also brings together many of
 the characteristics found in the various examples in a neat list of
 characteristics: hackers are not mere users of technology, but active
 creators, shapers, and benders of media technologies as well as the
-relationships mediated through them (see also: (Levy, 2001; Roszak,
-1986). They like to tinker with technology, while deferring centralized
-authority. They cooperate on projects for a common good and prefer messy
+relationships mediated through them (see also: Levy, 2001; Roszak,
+1986). They like to tinker with technology, cooperate on projects for a common good and prefer messy
 iterative operations above master plans. Hacking, in other words, refers
 to the process of clever or playful appropriation of existing
 technologies or infrastructures, and bending the operation of a
@@ -551,11 +547,11 @@ Stallman stated:
 > 'free' I am not referring to price, but rather to the freedom to copy
 > the information and to adapt it to one's own uses... When information
 > is generally useful, redistributing it makes humanity wealthier no
-> matter who is distributing and no matter who is receiving.” Stallman,
-> quoted in: (Denning, 1996)
+> matter who is distributing and no matter who is receiving.” (Stallman,
+> quoted in: Denning, 1996)
 
 The openness of systems has another advantage. In his seminal essay ‘The
-Cathedral and the Bazaar’ (Raymond, 1999) Eric Raymond, one of the gurus
+Cathedral and the Bazaar’ Eric Raymond (1999), one of the gurus
 of the open source software movement, explains the decentralized
 hacker-approach of being small and agile. It’s that very ethic of
 small-scale initiatives in combination with cooperation with one’s
@@ -606,9 +602,9 @@ process (Gordon & Manosevitch, 2010; Gordon, Schirra, & Hollander,
 have arisen in which citizens can act as co-creators in the design of
 products or even their neighborhoods. Baccarne et. al. have described
 these initiatives as evocative of a hacker ethic, as these living labs
-‘promote\[s\] the idea that anyone is capable of performing a variety of
-tasks rather than relying on paid experts or specialists.’ (Baccarne,
-Mechant, Schuurma, De Marez, & Colpaert, 2014)
+‘promote the idea that anyone is capable of performing a variety of
+tasks rather than relying on paid experts or specialists’ (Baccarne,
+Mechant, Schuurma, De Marez, & Colpaert, 2014).
 
 The point is not that expert-knowledge has no value anymore, or that
 every amateur can take up any task. Rather, what these examples show is
@@ -634,7 +630,7 @@ procedures of campaigning, crowdsourcing and crowdfunding to approach
 citizens as co-creators, whereas they have started to see their role as
 developers or producers of projects that address urgent societal issues,
 organizing the knowledge and contributions of various stakeholders
-around it (Klooster, 2013).
+around it (Van 't Klooster, 2013).
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Hackable City Research Question 3: What new procedures of knowledge exchange and capacity building are needed to make the hackable citymaking process an inclusive one?
@@ -707,7 +703,7 @@ very personal itch (I don’t like the way something works so I’ll modify
 it according to my wishes) and has a more social side to it (I’ve come
 up with something clever and this could benefit others too). This social
 side is competitive, for many hackers it’s about impressing and gaining
-respect among peers through cleverness (for instance (Levy, 2001): 12),
+respect among peers through cleverness (for instance Levy, 2001: 12),
 and at the same time it involves a communal attitude of openness,
 sharing-alike and community building (Himanen, 2001; Hippel, 2005; Levy,
 2001).
@@ -726,7 +722,7 @@ based on controlling information, and at the same time they reject the
 centralized authority model associated with communism (Himanen, 2001).
 Himanen’s empowered capitalist hacker is not motivated by money but does
 not reject it, profit is understood in a much more complex system of
-values comprised of creativity, passion, freedom, social worth,
+values comprized of creativity, passion, freedom, social worth,
 activity, openness and caring.
 
 Although the term is not much used in hacker culture per se, we find it
@@ -785,7 +781,7 @@ development and production, leading to services that are provided
 neither by the state nor by the market” (Bria, 2015). Interesting as
 these examples are, Nesta also sees a challenge here. While local and
 small scale examples abound, it is still hard to scale these or find
-room for further experimentation (Bria 2015).
+room for further experimentation (Bria, 2015).
 
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
   Hackable City Research Question 6: How can we align, engage and reward various stakeholders around the organization of urban infrastructures or issues as a commons?
@@ -801,7 +797,7 @@ gardens. This leads to two potential challenges: a) the organization and
 commitment within projects, and b) the relation between a collective
 project and society at large.
 
-To start with the first issue. Some have argued that for the realization
+To start with the first issue, some have argued that for the realization
 of communal goals, the bottom-up approach may be too non-committal. Some
 advocates of open source software such as Eric Raymond have therefore
 argued for strong leadership. Successful examples of open source
@@ -838,21 +834,20 @@ the ‘energetic society’ that the Netherlands Environmental Assessment
 Agency sees emerging, the government is no longer the central director
 determining both societal goals and the exact path to reach them, but
 rather a producer that should capitalize on the energy of citizens,
-organisations, companies and institutions. It should set a framework
+organizations, companies and institutions. It should set a framework
 that various actors then can take up (or ‘hack’) and fill in according
 to their preferences and interests (Hajer, 2011). However, Tonkens,
 Trappenburg, Hurenkamp and Schmidt have recently questioned this
 approach. This approach may work out fine for the well-educated, but
 leaves many others who lack the energy, the skills or the willingness to
 participate in such a way behind (Tonkens, Trappenburg, Hurenkamp, &
-Schmidt 2015). Similarly, debates have emerged about the legitimacy of
+Schmidt, 2015). Similarly, debates have emerged about the legitimacy of
 citizen-initiatives. To what extent are they representative of the
 citizenry as a whole? And to what extent are they expressions of private
 collective interests rather than a public interest? How should local
 governments relate to these initiatives?
 
-As for now, we have no easy answers to these questions on a general
-level. But again, here the approach of hacking may help finding
+These questions are hard to answer. But again, here the approach of hacking may help finding
 solutions: rather than designing grand schemes of governance, now is a
 time for experimenting with various frameworks and models of
 representation, so we can learn from them.
@@ -924,7 +919,7 @@ systems in the era of the platform society. That’s what drives our
 research, and also our first experiments down this road that will be
 explored further in the Hackable City Toolkit in the next chapter.
 
-# Chapter 2 The Hackable City Toolkit
+#The Hackable City Toolkit
 
 How can citizens, design professionals, local government institutions
 and others employ digital media platforms in collaborative processes of
@@ -934,7 +929,7 @@ our research project is not just to approach this question from a
 theoretical perspective, but also to explore how new media technologies
 can be employed in the messy practice of everyday urban life.
 
-In order to answer this latter question, in the period 2013-2014 we
+In order to answer the latter question, in the period 2013-2014 we
 carried out a mapping of initiatives in the city of Amsterdam that in
 some way or another used digital media to ‘hack’ into the city. That is:
 we were looking for initiatives that used digital media to organize
@@ -945,7 +940,7 @@ organized themselves to identify issues, organize campaigns around them,
 and find ways to collaboratively act upon these issues. We also looked
 at the ways in which projects matched Pekka Himanen’s hacker learning
 model in which a continuously evolving learning and doing environment is
-shaped by the learners themselves (Himanen 2001). Another criterion was
+shaped by the learners themselves (Himanen, 2001). Another criterion was
 the presence of a social model that Himanen assigns to the hacker ethic.
 In this model, projects usually start with somebody’s initiative whose
 limited knowledge or resources only allow him to develop his idea to a
@@ -1050,7 +1045,7 @@ community building projects, the only large organizations involved are
 occasionally housing corporations, while the local governments are very
 often initiating or supporting them.
 
-Seven of the 84 projects we have identified were chosen for an indepth
+Seven of the 84 projects we have identified were chosen for an in depth
 analysis through interviews and analysis of their media use and
 practices. These projects were chosen to represent a diverse cross
 section of the long list of projects, both in terms of theme as well as
@@ -1174,7 +1169,7 @@ Figure 2: Citymaking process
 
   Institutionalize      How can a hackable city-initiative be made to last? Can they scale-up, be made replicable, or develop ties or spin out to existing institutions?                                                                                                                                                                                    As this phase is more of about organization and legal and institutional contexts and structures, digital media technologies play less of a role here. Although they could play a role in the way systems interoperate. Through API’s or other tools, the data or insights gathered by a hackable city project can be linked to institutional databases or monitoring systems.                                                                                                                                                                                                                                                                                  \[Here '3\_13A\_hackable city process\_Uber'\]                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        \[Here 3\_13B\_Idee\_voor\_je\_buurt\]
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Companies such as Airbnb and Uber have grown so much that many municipalities have been forced to consider the implications of these economies for their cities. Recently Airbnb was asked to collect a hotel tax from the listings on the website, formally being recognised as a hotel business.                                                                                                                                                                                                                                                                    Sometimes established institutions integrate platforms that were developed outside these institutions. For instance the Amsterdam Municipality launched a pilot application of Change by Us, under the Dutch name Idee voor je Buurt, with the intention to establish its regular use from 2015.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           Companies such as Airbnb and Uber have grown so much that many municipalities have been forced to consider the implications of these economies for their cities. Recently Airbnb was asked to collect a hotel tax from the listings on the website, formally being recognised as an accomodation provider.                                                                                                                                                                                                                                                                    Sometimes established institutions integrate platforms that were developed outside these institutions. For instance, in 2014 Amsterdam Municipality piloted a Dutch version of Change by Us, called "Idee voor je buurt". 
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            Uber has also consented to share anonimized data about the trasportation habits of its clients with city authorities to improve public transportation.                                                                                                                                                                                                                                                                                                                                                                                                                
   --------------------- ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -1222,16 +1217,13 @@ Figure 3: Citymaking strategies’
   **Trust Brokers**                                                
   ---------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-\[Here '3\_14\_collection initiatives'\]
 
-\[Here '3\_15\_map of Amsterdam'\]
+
 
 # Case studies
 
 ## BSH5 
-
-![Figure:logoBXH5](images/51BSH5logo.PNG)
-
+\[Here '3\_15\_map of Amsterdam'\]
 
 BSH5 is an informal group consisting of the self-builders (a Dutch term
 referring to individuals who are building their own homes, an uncommon
@@ -1288,7 +1280,7 @@ of their properties. In May 2013, the inhabitants of Lot 5 submitted
 their proposal for the design of the Bosrankstraat, which the City
 accepted as a starting point for the technical development into a final
 design. But this close relationship between the Municipality and the
-self-builders is also criticised. According to the local neighborhood
+self-builders is also criticized. According to the local neighborhood
 blog ‘I love Noord’, the self-builders are trying to create a gated
 community under the guise of child-friendliness and greener
 surroundings.
@@ -1312,10 +1304,10 @@ framework.
 
 At its current state, BSH5 is a group of 30-40 people, living in 15
 households spread over 18 plots. The small size of the community was a
-reason to maintain an informal structure and not organise into a
+reason to maintain an informal structure and not organize into a
 foundation or any other legal form. BSH5 is not a community primarily
 driven by ICT. They rely on their interpersonal relations and make very
-little use of digital tools. They use a mailing list to organise
+little use of digital tools. They use a mailing list to organize
 internally and a Wordpress-based website where each one can post under
 their own name either updates on the construction of their houses or
 solutions and ideas on particular construction issues. There is also a
@@ -1383,9 +1375,6 @@ frameworks?
 ## Farming the City
 
 
-![Figure:logo](images/52farminglogo.PNG)
-
-
 Farming the City is a research project and online platform investigating
 the impact of local food initiatives and urban agriculture in built
 environments, economic systems and community cohesion in the global
@@ -1416,7 +1405,7 @@ the production and consumption of food in urban environments, but
 despite the fact that they all work in the same field they rarely
 interact with each other. With the support of Amsterdam Municipality,
 they consequently put together a map of Amsterdam with 19 innovative
-case studies, organised per Stadsdeel (city district), realizing that
+case studies, organized per Stadsdeel (city district), realizing that
 most projects address mostly sourcing and consuming food and not
 packaging or transportation. In order to test these observations on a
 larger scale, they launched an online application with the same goal,
@@ -1485,8 +1474,6 @@ getting an urban farming project off the ground in the city of
 Amsterdam.
 
 ## Join the Pipe 
-
-![Figure:logo](images/53pipelogo.png)
 
 
 Join the Pipe is a small organization that aims to redefine the drinking
@@ -1558,7 +1545,7 @@ social media is a big part of their strategy with regular posts on both
 Facebook and Twitter. Its campaigns are mainly about spreading the word
 and do not explicitly aim to connect the people interested with each
 other. The content on the website is updated regularly and concerns
-mostly the promotion of the organisation’s activities, events,
+mostly the promotion of the organization’s activities, events,
 accomplishments and partners. There is no external content or references
 to other projects or resources about water management. The website
 mentions a community of 3500 people (25.000 in the Dutch version).
@@ -1572,8 +1559,6 @@ the bottom. Especially in Africa, where internet use is not common, they
 try to approach local radio stations and work with word of mouth.
 
 ## Makers + Co 
-
-![Figure:example1](images/54logomakers.PNG)
 
 
 Makers+co is a group of designers that connect crafts with social
@@ -1636,7 +1621,7 @@ people constantly complaining about safety, playgrounds, bad housing,
 local government, housing corporations, their neighbours, and turn all
 this into a proactive mindset. Directly addressing the inequality of
 skills and education, particularly in the peripheral neighborhoods of
-the city, by creating an institutionalised framework where people can
+the city, by creating an institutionalized framework where people can
 connect to each other, develop their skills and feel included in the
 local community, Makers+co act as Capacity Builders and Trust Brokers
 for Nieuw West.
@@ -1692,7 +1677,6 @@ work faster and manage expectations better.
 
 ## Peerby 
 
-![Figure:logo](images/55peerbylogo.png)
 
 Peerby is an online platform and mobile phone app that allows people to
 borrow things they need from others in their vicinity. It is a Community
@@ -1785,7 +1769,7 @@ In terms of working together with the city, Peerby initially thought the
 municipality could be a portal to individual neighborhoods, but their
 early approaches fell on deaf ears. Now that the project has had a
 positive course and more sharing economy initiatives are sprouting, they
-recognise more openness on the part of the city. However, Peerby is
+recognize more openness on the part of the city. However, Peerby is
 developing very fast and growing increasingly concerned with the lack of
 regulation around sharing economies. Peerby’s activity is mostly about
 small, cheap things, which means they face less insurance related issues
@@ -1801,7 +1785,6 @@ to governance concern control and taxation of sharing economy
 activities, worker’s rights and insurance of involved parties.
 
 ## Ring Ring 
-![Figure:logo](images/56ringringlogo.png)
 
 Ring-Ring is a citizen-initiated pilot project that campaigns for more
 extensive use of the bicycle by rewarding cycling kilometres. Ring-Ring
@@ -1857,7 +1840,7 @@ cyclists themselves.
 
 ###Awareness campaigns
 
-Apart from the iphone and android mobile phone app, which is the central
+Apart from the iPhone and Android mobile phone app, which is the central
 enabler of engagement and action, Hogendoorm collects all her research
 and resources around the benefits of cycling at the Ring-Ring website in
 a blog format. She uses a Facebook and Twitter page to communicate
@@ -1915,7 +1898,6 @@ the neighborhood park about animals.
 
 ##Verbeter de Buurt
 
-![Figure:logo](images/57verbeterlogo.png)
 
 Verbeterdebuurt is an online platform and mobile phone app that makes
 reporting in the public space more transparent and easy. It allows
@@ -1943,7 +1925,7 @@ but that reports will be automatically incorporated in their regular
 workflow. This will be both smoother for the municipal employees and
 will allow Verbeter de Buurt to focus on the user experience of the
 application. Their main goal is to put forward the ideas instead of the
-complaints and motivate the people to get together to realise them.
+complaints and motivate the people to get together to realize them.
 
 The organization prides itself on being completely independent and feels
 that their way of working can be more valuable on a larger scale as
@@ -1975,10 +1957,10 @@ Twitter account.
 The nature of most issues reported in Verbeter de Buurt is of very local
 interest. As people do not really care about broken street lights even
 two streets down the block, there is a lot of effort from the
-organisation to keep the platform both easily accessible on this highly
+organization to keep the platform both easily accessible on this highly
 local level, yet nationally relevant as well, as areas may share the
 same issues and could tackle them collectively. They have tried to
-customise the platform for each municipality council according to their
+customize the platform for each municipality council according to their
 needs, but they eventually feel that a uniform output strengthens the
 user trust and allows them to offer better services. There are no plans
 of expanding in other countries, but the team actively work to improve
@@ -2031,7 +2013,7 @@ they can provide maps locating the areas with the most problems, which
 reports gather widespread interest and even make priority lists for
 them.
 
-# Conclusion
+# Further thoughts
 
 We started this publication with a brief description of the advent of a
 platform society: a society in which more and more aspects of our lives
@@ -2156,15 +2138,14 @@ innovative and liveable cities.
 #Reference List
 
 Allwinkle, S., & Cruickshank, P. (2011). Creating smart-er cities: An
-overview. *Journal of Urban Technology, 18*(2), 1-16.
-doi:10.1080/10630732.2011.601103
+overview. *Journal of Urban Technology, 18*(2): 1-16.
 
 Baccarne, B., Mechant, P., Schuurma, D., De Marez, L., & Colpaert, P.
 (2014). Urban socio-technical innovations with and by citizens.
 *Interdisciplinary Studies Journal. Special Issue on Smart Cities, 3*(4)
 
 Barlow, W. (1988). Community radio in the US: The struggle for a
-democratic medium. *Media, Culture & Society, 10*(1), 81-105.
+democratic medium. *Media, Culture & Society, 10*(1): 81-105.
 
 Beck, U. (1992). *Risk society*. Londen: Sage.
 
@@ -2172,20 +2153,20 @@ Beunderman, J. (2012). *Compendium for the civic economy : What our
 cities, towns and neighbourhoods should learn from 25 trailblazers*.
 London: Trancity Valiz in association with Nesta.
 
-Bria, F. (2015). *GROWING A DIGITAL SOCIAL INNOVATION ECOSYSTEM FOR
-EUROPE DSI FINAL REPORT.* (). Brussels: European Union.
+Bria, F. (2015). *Growing a Digital Social Innovation Ecosystem for
+Europe DSI Final Report.* Brussels: European Union.
 
 Castells, M. (2002). The culture of cities in the information age. In
 Susser, I, Castells,M. (Ed.), *The castells reader on cities and social
-theory* (). Malden, MA: Blackwell Publishers.
+theory*. Malden, MA: Blackwell Publishers.
 
 Denning, D. E. (1996). Concerning hackers who break into computer
-systems. In P. Ludlow (Ed.), *High noon on the electronic frontier :
-Conceptual issues in cyberspace* (). Cambridge, MA: MIT Press.
+systems. In P. Ludlow (Ed.), *High noon on the electronic frontier:
+Conceptual issues in cyberspace*. Cambridge, MA: MIT Press.
 
 Gabrys, J. (2014). Programming environments: Environmentality and
 citizen sensing in the smart city. *Environment and Planning D: Society
-and Space, 32*(1), 30-48.
+and Space, 32*(1): 30-48.
 
 Gordon, E., & Manosevitch, E. (2010). Augmented deliberation: Merging
 physical and virtual interaction to engage. *New Media & Society, *
@@ -2194,13 +2175,13 @@ Gordon, E., Schirra, S., & Hollander, J. (2011). Immersive planning: A
 conceptual model for designing public participation with new
 technologies. *Environment and Planning-Part B, 38*(3), 505.
 
-Greenfield, A. (2013). *Against the smart city*
+Greenfield, A. (2013). *Against the smart city*. The city is here for you to use Book 1. New York: Do Projects
 
 Hajer, M. (2011). *De energieke samenleving. Op zoek naar een
-sturingsfilosofie voor een schone economie.* (). Den Haag: Planbureau
+sturingsfilosofie voor een schone economie.* Den Haag: Planbureau
 voor de Leefomgeving.
 
-Hemment, D., & Townsend, A. (2013). *Smart citizens* FutureEverything
+Hemment, D., & Townsend, A. (2013). *Smart citizens*. FutureEverything
 Publications.
 
 Himanen, P. (2001). *The hacker ethic*. New York: Random House.
@@ -2209,11 +2190,10 @@ Hippel, E. v. (2005). *Democratizing innovation*. Cambridge, MA: MIT
 Press.
 
 Hollands, R. G. (2008). Will the real smart city please stand up?
-intelligent, progressive or entrepreneurial? *City, 12*(3), 303-320.
+intelligent, progressive or entrepreneurial? *City, 12*(3): 303-320.
 
 Kitchin, R. (2013). Big data and human geography: Opportunities,
-challenges and risks. *Dialogues in Human Geography, 3*(3), 262-267.
-doi:10.1177/2043820613513388
+challenges and risks. *Dialogues in Human Geography, 3*(3): 262-267.
 
 Klooster, I. v. (2013). *Reactivate!: Innovators of dutch architecture*.
 New York: Trancity Valiz.
@@ -2222,7 +2202,7 @@ de Lange, M., & de Waal, M. (2013). Owning the city: New media and
 citizen engagement in urban design. *First Monday, 18*(11)
 
 Leadbeater, C., & Miller, P. (2004). *The pro-am revolution: How
-enthusiasts are changing our society and economy* Demos.
+enthusiasts are changing our society and economy*. London: Demos.
 
 Levy, S. (2001). *Hackers: Heroes of the computer revolution* Penguin
 Books New York.
@@ -2231,28 +2211,28 @@ Lydon, M., & Garcia, A. (2015). *Tactical urbanism : Short-term action
 for long-term change*. Washington DC: Island Press.
 
 Ratti, C., & Townsend, A. (2011). The social nexus. *Scientific
-American, 305*(3), 42-48.
+American, 305*(3): 42-48.
 
 Raymond, E. (1999). The cathedral and the bazaar. *Knowledge, Technology
 & Policy, 12*(3), 23-49.
 
 Roszak, T. (1986). *The cult of information: The folklore of computers
-and the true art of thinking* Pantheon Books.
+and the true art of thinking*. New York: Pantheon Books.
 
 Söderström, O., Paasche, T., & Klauser, F. (2014). Smart cities as
-corporate storytelling. *City, 18*(3), 307-320.
+corporate storytelling. *City, 18*(3): 307-320.
 
-Tonkens, E., Trappenburg, M., Hurenkamp, M., & Schmidt, J.*Montessori
+Tonkens, E., Trappenburg, M., Hurenkamp, M., & Schmidt, J. (2015). *Montessori
 democratie : Spanning tussen burgerparticipatie en de lokale politiek*.
 Amsterdam: Amsterdam University Press.
 
 Townsend, A. M. (2013). *Smart cities: Big data, civic hackers, and the
-quest for a new utopia* WW Norton & Company.
+quest for a new utopia*. New York: WW Norton & Company.
 
 Turner, F. (2006). How digital technology found utopian ideology. In D.
 Silver, & A. Massanari (Eds.), *Critical cyberculture studies: Current
-terrains, future directions* (). New York: NYU Press.
+terrains, future directions*. New York: NYU Press.
 
-Wark, M. (2004). A hacker manifesto. (). Cambridge, MA: Harvard
+Wark, M. (2004). A hacker manifesto. Cambridge, MA: Harvard
 University Press.
 
