@@ -47,13 +47,15 @@ Amsterdam), PublishingLab
 
 **Cover image** Marc Faasse (www.ndsm.nl/speeltuin)
 
-**Photography** [name]
+**Photography** Marc Faasse, Michiel de Lange, Pink Pony Express
+
+**Diagrams** Juliette Sung
 
 **Contact** Amsterdam Creative Industries Publishing,
-www.amsterdamcreativeindustries.com
+<a href="http://www.amsterdamcreativeindustries.com/">www.amsterdamcreativeindustries.com</a>
 
 EPUB and PDF editions of this publication are freely downloadable from
-our website, www.publishinglab.nl/publications
+our website, <a href="http://www.publishinglab.nl/publications">www.publishinglab.nl/publications</a>
 
 This publication is licensed under Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
@@ -64,20 +66,20 @@ Amsterdam, December 2015
 
 **ISBN** 978-94-92171-05-4 (ePub)
 
-[ logo’s: uva, hva, uu, pakhuis de zwijger, min bzk, one architecture - CHECK CHECKjkadahdjkad]
+[ logos: uva, hva, uu, pakhuis de zwijger, min bzk, one architecture - CHECK CHECKjkadahdjkad]
 
 
 #Contents
 
 <a href="ch006.xhtml">Introduction: the Rise of the Platform Society</a>
 
-A Hackable City Research Manifesto 
+<a href="ch007.xhtml">A Hackable City Research Manifesto</a>
 
-The Hackable City Toolkit
+<a href="ch008.xhtml">The Hackable City Toolkit</a>
 
-Case Studies
+<a href="ch009.xhtml">Case Studies</a>
 
-Conclusion
+<a href="ch010.xhtml">Further Thoughts</a>
 
 
 #Acknowledgements
