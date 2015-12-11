@@ -413,9 +413,9 @@ citizens or designers. Can citizens and other actors still hack into
 these systems, becomes an important question. To what extent do our
 cities remain the open systems that provided their success?
 
-  -------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 1: How can we safeguard the open character of our cities in the platform society?
-  -------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 1: <p>How can we safeguard the open character of our cities in the platform society?</p>
+</div>
 
 ## A brief history of hacker culture
 
@@ -568,9 +568,9 @@ projects – varying from Wikipedia to open source software – to the
 process of citymaking? That’s one of the leading questions we will try
 to address in the Hackable City Toolkit further on in this publication.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 2: How can new media technologies assist to port the approaches of openness, collaborative learning and cooperation found in various instances of hacker culture – varying from Wikipedia to open source soft- and hardware – to the process of citymaking?
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 2: <p>How can new media technologies assist to port the approaches of openness, collaborative learning and cooperation found in various instances of hacker culture – varying from Wikipedia to open source soft- and hardware – to the process of citymaking?</p>
+</div>
 
 ## Hackers, Experts and Amateurs
 
@@ -633,13 +633,13 @@ developers or producers of projects that address urgent societal issues,
 organizing the knowledge and contributions of various stakeholders
 around it (Van 't Klooster, 2013).
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 3: What new procedures of knowledge exchange and capacity building are needed to make the hackable citymaking process an inclusive one?
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 3: <p>What new procedures of knowledge exchange and capacity building are needed to make the hackable citymaking process an inclusive one?</p>
+</div>
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 4: How can digital media platforms be designed to organize various stakeholders around societal issues and give each stakeholder the opportunity to contribute to the best of their abilities?
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 4: <p>How can digital media platforms be designed to organize various stakeholders around societal issues and give each stakeholder the opportunity to contribute to the best of their abilities?</p>
+</div>
 
 ## Learning by doing
 
@@ -680,9 +680,9 @@ metrics about the consequences were often important in convincing
 stakeholders of a more durable interpretation of the interventions
 (Lydon & Garcia, 2015).
 
-  -----------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 5: How can we bring the iterative, learning-by-doing approach to the process of citymaking?
-  -----------------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 5: <p>How can we bring the iterative, learning-by-doing approach to the process of citymaking?</p>
+</div>
 
 ## The commons: hacking for the public good?
 
@@ -784,9 +784,9 @@ these examples are, Nesta also sees a challenge here. While local and
 small scale examples abound, it is still hard to scale these or find
 room for further experimentation (Bria, 2015).
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 6: How can we align, engage and reward various stakeholders around the organization of urban infrastructures or issues as a commons?
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 6: <p>How can we align, engage and reward various stakeholders around the organization of urban infrastructures or issues as a commons?</p>
+</div>
 
 ## Hacking & Governance
 
@@ -853,13 +853,12 @@ solutions: rather than designing grand schemes of governance, now is a
 time for experimenting with various frameworks and models of
 representation, so we can learn from them.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 7: What governance frameworks can provide room for citizens and designers to legitimately hack their cities from the perspective of the public interest?
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  Hackable City Research Question 8: What new modes of inclusion and exclusion arise in the Hackable City? How can the Hackable City be both inclusive and at the same time provide room for differentiation?
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="RQ">
+  Hackable City Research Question 7: <p>What governance frameworks can provide room for citizens and designers to legitimately hack their cities from the perspective of the public interest?</p>
+</div>
+<div class="RQ">
+  Hackable City Research Question 8: <p>What new modes of inclusion and exclusion arise in the Hackable City? How can the Hackable City be both inclusive and at the same time provide room for differentiation?</p>
+</div>
 
 ##Citizens and designers as social change agents
 
