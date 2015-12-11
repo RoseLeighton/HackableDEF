@@ -1,20 +1,19 @@
 ---
-Pr-id: The Hackable City 
-
-P-id: Knowledge Mile series
+Pr-id: Publications 
+P-id: 'Knowledge Mile series'
 A-id: 3  
 
-Item-id: unique no.  
+Item-id: 'unique no.' 
 
-Authors: Cristina Ampatzidou, Matthijs Bouw, Froukje van de Klundert, Michiel de Lange, Martijn de Waal 
+Authors: 'Cristina Ampatzidou, Matthijs Bouw, Froukje van de Klundert, Michiel de Lange, Martijn de Waal' 
 
 
-Abstract: The Hackable City is an on-going research project on the role of digital media in the process of citymaking that resulted from cooperation between One Architecture and The Mobile City Foundation. The project investigates the opportunities of digital media technologies for the empowerment of citizens and other stakeholders in a democratic process of citymaking. It also explores the shift in roles of and relationships between governments, (design) professionals and citizens in this process.
+Abstract: 'The Hackable City is an on-going research project on the role of digital media in the process of citymaking that resulted from cooperation between One Architecture and The Mobile City Foundation. The project investigates the opportunities of digital media technologies for the empowerment of citizens and other stakeholders in a democratic process of citymaking. It also explores the shift in roles of and relationships between governments, (design) professionals and citizens in this process.'
 
-Keywords: citymaking, empowerment, developments, Amsterdam, citizens
+Keywords: 'citymaking, empowerment, developments, Amsterdam, citizens'
 
-Rights: This publication is licensed under Creative Commons
-Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)
+Rights: 'This publication is licensed under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)'
 
 ---
 
@@ -70,7 +69,7 @@ Amsterdam, December 2015
 
 #Contents
 
-<a href="ch001.xml">Introduction: the Rise of the Platform Society</a>
+<a href="ch006.xhtml">Introduction: the Rise of the Platform Society</a>
 
 A Hackable City Research Manifesto 
 
