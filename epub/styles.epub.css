@@ -133,7 +133,6 @@ font-size: 0.5em;
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px grey solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
@@ -148,13 +147,13 @@ a:hover { color: #f23f4e;
 
     div.streams{
     font-family: VAGRoundedStd-Bold;
-    width: 50%;
+    width: 70%;
     min-width: 10em;
     margin-left: auto;
     margin-right: auto;
     text-align: center;
     font-weight: bold;
-    font-size: 1.15em;
+    font-size: 1em;
     color: #f23f4e;
     -webkit-hyphens:none;
     hyphens: none;

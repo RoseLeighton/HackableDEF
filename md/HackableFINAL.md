@@ -66,7 +66,16 @@ Amsterdam, December 2015
 
 **ISBN** 978-94-92171-05-4 (ePub)
 
-[ logos: uva, hva, uu, pakhuis de zwijger, min bzk, one architecture - CHECK CHECKjkadahdjkad]
+![](images/logos/Universiteit-van-Amsterdam-black.png)
+![](images/logos/logo_KnowledgeMile.png)
+![](images/logos/Hogeschool-van-Amsterdam-black.png)
+![](images/logos/One-Architecture-black.png)
+![](images/logos/Ministerie-van-Binnenlandse-Zaken-black.png)
+![](images/logos/Pakhuis-de-Zwijger-black.png)
+![](images/logos/Universiteit_Utrecht-black.png)
+![](images/logos/the-mobile-city.png)
+![](images/logos/logo_publishinglab.png)
+![](images/logos/logo_ACICE.png)
 
 
 #Contents
@@ -195,6 +204,10 @@ apartment into a hotel, or mobilizing ‘friends’ at a public park - whether i
 our urban infrastructures in more efficient ways and find more flexible
 ways to program our cities, mobilize crowds, organize communities,
 activate places and negotiate transactions.
+
+<div class="streams"><hr class="streams" />
+In the platform society it may become easier
+to ‘hack’ the existing fabric of our cities and appropriate it for our own uses<hr class="streams" /></div>
 
 Following the sometimes positivist swing to the rhetoric of the platform
 society, the connections these new platforms forge may empower citizens
@@ -362,6 +375,11 @@ open platforms where these laws can be challenged as well; be it through
 small scale tactical interventions or large revolutionary protest
 demonstrations.
 
+<div class="streams"><hr class="streams" />
+The force of cities is that they have been open systems whose infrastructure and
+overlapping social, cultural and economic networks can be put to use in new, unforeseen
+ways by a variety of actors<hr class="streams" /></div>
+
 What happens to these functions of the city now that in our everyday
 urban lives, we have started to make use of all kinds of digital
 interfaces to join supply and demand and to match individuals with
@@ -445,6 +463,8 @@ expensive machine was now appropriated by the playful explorations of
 these young outsiders, driven by their curiosity about what such a
 machine could do. They even designed their own games – upsetting the air
 of seriousness that had surrounded computers until then.
+
+<div class="streams"><hr class="streams" />Until then, they claimed, computers had mainly been associated with the oppressive workings of a centralized government<hr class="streams" /></div>
 
 We stumble again upon a hacking ethos in the 1970s, when in the San
 Francisco Bay Area under the umbrella of the Homebrew Computer Club, a
