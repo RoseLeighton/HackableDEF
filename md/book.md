@@ -45,7 +45,7 @@ The Hackable City: A Research Manifesto and Design Toolkit
 **Supported by** Amsterdam University of Applied Sciences (Hogeschool van
 Amsterdam), PublishingLab
 
-**Cover image** Marc Faasse (www.ndsm.nl/speeltuin)
+**Cover image** Marc Faasse <a href="http://www.ndsm.nl/speeltuin">www.ndsm.nl/speeltuin</a>
 
 **Photography** Marc Faasse, Michiel de Lange, Pink Pony Express
 
@@ -524,6 +524,11 @@ technologies or infrastructures, and bending the operation of a
 particular system beyond its intended purposes or restrictions to serve
 personal or communal goals.
 
+<div class="streams"><hr class="streams" />
+Hackers are not mere users of technology, but active creators, shapers,
+and benders of media technologies
+<hr class="streams" /></div>
+
 For hackers, that approach is not just one out of many ways to solve a
 problem. For many of them it's a way of life. Many of the proponents in
 the examples given above wilfully make use of the term hacker as a
@@ -776,6 +781,10 @@ business model or that everyone involved should work for free as in
 ‘free beer’. It means that a business model should serve the public
 interest rather than being a goal in itself.
 
+<div class="streams"><hr class="streams" />How individuals can be rewarded for their contributions to a common good, is a central
+question in hackable citymaking practices
+<hr class="streams" /></div>
+
 What’s of interest for our purposes here, is that there runs a thread
 through hacker culture that combines the process of open learning with
 one of collaboration and producing something for the community at large,
@@ -977,6 +986,11 @@ their own homes, to citizens organizing themselves around local issues
 such as safety or health, to sharing economy initiatives. Our goal was
 to try to understand who initiated these projects, what the issues were
 they are occupied with, and how they tackled them.
+
+<div class="streams"><hr class="streams" />
+Although many of these projects were initiated by citizens or professionals, many of them
+operated in cooperation with a variety of institutional stakeholders
+<hr class="streams" /></div>
 
 Some of these projects were initiated by citizens, others by
 professionals. Some rely on voluntary actions, or are financed by state
@@ -2115,6 +2129,11 @@ manifesto, so far we have given them only limited attention in our
 analysis of hackable citymaking practices. This ‘governance’ aspect of
 hackable cities should be an important aspect of future research into
 this area.
+
+<div class="streams"><hr class="streams" />
+Most instances of hackable citymaking revolve around the organization of individuals in a
+collective or a public, usually through or with the aid of a digital media platform
+<hr class="streams" /></div>
 
 Another core issue in the debate about hackable citymaking lies right in
 the centre of the diagram: the collective. How and by whom is this
