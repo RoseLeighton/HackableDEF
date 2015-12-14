@@ -1,4 +1,4 @@
-# Makefile for INC hybrid publications
+# Makefile for PublishingLab hybrid publications
 
 ## Issues:
 # * why can't i make icmls before making markdowns ??
