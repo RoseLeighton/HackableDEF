@@ -78,7 +78,7 @@ Amsterdam, December 2015
 ![](images/logos/logo_ACICE.png)
 
 
-#Contents
+# Contents
 
 <a href="ch006.xhtml">Introduction: the Rise of the Platform Society</a>
 
@@ -90,8 +90,9 @@ Amsterdam, December 2015
 
 <a href="ch010.xhtml">Further Thoughts</a>
 
-
 #Acknowledgements
+![](imgs/HvA_HackableCities_breaker1.png)
+&nbsp;
 
 The Hackable City is a research project on the role of digital
 media in the process of citymaking that resulted from cooperation
@@ -126,9 +127,9 @@ Communication)
 
 [www.thehackablecity.nl](http://www.thehackablecity.nl/)
 
-info@thehackablecity.nl
+<a href="mailto:info@thehackablecity.nl">info@thehackablecity.nl</a>
 
-
+![](images/1_colofon_cover.png)
 
 # Definitions
 
@@ -155,9 +156,11 @@ with a strong social fabric?
 
 ![Figure 1: Citymaking](images/2citymaking.png)
 
-Figure 1: Citymaking
 
 # Introduction: the rise of the platform society
+
+![](imgs/HvA_HackableCities_breaker2.png)
+&nbsp;
 
 For citymakers all around the world, we live in interesting times, full
 of paradoxes. Whereas local governments are teaming up with technology
@@ -334,7 +337,11 @@ reflections on the process of hackable citymaking. What points of
 further developing ‘hackable city making’ need our attention, both in
 research, design and policy?
 
-#A Hackable City Research Manifesto
+# A Hackable City Research Manifesto
+
+![](imgs/HvA_HackableCities_breaker3.png)
+&nbsp;
+
 We have found the notion of hackability a useful lens to approach the
 increasing role of digital media in our urban societies, as well as to
 reflect on the changing relations between various parties in the process
@@ -948,7 +955,9 @@ systems in the era of the platform society. That’s what drives our
 research, and also our first experiments down this road that will be
 explored further in the Hackable City Toolkit in the next chapter.
 
-#The Hackable City Toolkit
+# The Hackable City Toolkit
+![](imgs/HvA_HackableCities_breaker4.png)
+&nbsp;
 
 How can citizens, design professionals, local government institutions
 and others employ digital media platforms in collaborative processes of
@@ -1255,6 +1264,8 @@ Figure 3: Citymaking strategies’
 
 
 # Case studies
+![](imgs/HvA_HackableCities_breaker5.png)
+&nbsp;
 
 ## BSH5 
 \[Here '3\_15\_map of Amsterdam'\]

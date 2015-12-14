@@ -72,12 +72,15 @@ h1{
     font-size:1.8em;
     margin-bottom: 0.5em;
     color: #f23f4e;
+    border-bottom:5px dotted #f23f4e;
+    padding-bottom:6px;
     page-break-before: always;
 }
 
 h2{
     font-size: 1.2em;
-    margin-top: 2em;
+    margin-top: 1em;
+    margin-bottom: 0.5em;
 }
 
 
