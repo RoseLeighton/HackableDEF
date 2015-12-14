@@ -1221,7 +1221,7 @@ Figure 2: Citymaking process
 
 [COMMENT2 another mess, needs design solution]
 
-![Figure 3: Types of 'scapes'](images/41hackablecitystrategies.gif)
+![Figure 3: Types of 'scapes'](images/41hackablecitystrategies.png)
 
 Figure 3: Citymaking strategies’
  
