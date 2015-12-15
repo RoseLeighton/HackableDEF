@@ -17,6 +17,34 @@ Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)'
 
 ---
 
+# The Hackable City
+
+In a hackable city, new media technologies are employed to open up urban
+institutions and infrastructures to systemic change in the public interest. It
+combines top-down smart-city technologies with bottom-up ‘smart citizen’
+initiatives.
+The Hackable City is a research project on the role of digital media in the process
+of citymaking that resulted from cooperation between One Architecture
+and The Mobile City Foundation. The project investigates the opportunities of
+digital media technologies for the empowerment of citizens and other stakeholders
+in a democratic process of citymaking.
+The Hackable City aims to offer a closer look at the implications of ‘hackable
+city making’ in the form of a Hackable City Research Manifesto and a ‘hackable
+city toolkit’. This toolkit could give designers, policy makers and citizens
+a number of ideas to approach projects that they might be working on, providing
+also a number of strategies to include in their projects.
+
+**Cristina Ampatzidou** (University of Amsterdam / University of Groningen)
+
+**Matthijs Bouw** (Researcher, One Architecture)
+
+**Froukje van de Klundert** (Embedded Researcher, University of Amsterdam)
+
+**Michiel de Lange** (Researcher, Utrecht University)
+
+**Martijn de Waal** (Project leader, University of Amsterdam / Amsterdam University
+of Applied Sciences)
+
 # The Hackable City: A Research Manifesto and Design Toolkit
     
 
@@ -80,15 +108,15 @@ Amsterdam, December 2015
 
 # Contents
 
-<a href="ch006.xhtml">Introduction: the Rise of the Platform Society</a>
+<a href="ch007.xhtml">Introduction: the Rise of the Platform Society</a>
 
-<a href="ch007.xhtml">A Hackable City Research Manifesto</a>
+<a href="ch008.xhtml">A Hackable City Research Manifesto</a>
 
-<a href="ch008.xhtml">The Hackable City Toolkit</a>
+<a href="ch009.xhtml">The Hackable City Toolkit</a>
 
-<a href="ch009.xhtml">Case Studies</a>
+<a href="ch010.xhtml">Case Studies</a>
 
-<a href="ch010.xhtml">Further Thoughts</a>
+<a href="ch011.xhtml">Further Thoughts</a>
 
 #Acknowledgements
 ![](imgs/HvA_HackableCities_breaker1.png)
@@ -2168,7 +2196,7 @@ schematic understanding of the process of citymaking, as illustrated in
 the diagram below:
 
 ![Figure:citymaking](images/6citymakingmatrix.png)
-
+&nbsp;
 Most instances of hackable citymaking revolve around the organization of
 individuals in a collective or a public, usually through or with the aid
 of a digital media platform. Individuals contribute resources, such as
