@@ -34,7 +34,7 @@ The Hackable City: A Research Manifesto and Design Toolkit
 
 **Design** UNDOG, Amsterdam
 
-**EPUB development** Jess van Zyl
+**EPUB development** Jess van Zyl (PublishingLab)
 
 **Copy-editor** Russell Kinch
 
@@ -1219,48 +1219,119 @@ Figure 2: Citymaking process
 
 ## Hackable City Strategies
 
-[COMMENT2 another mess, needs design solution]
-
 ![Figure 3: Types of 'scapes'](images/41hackablecitystrategies.png)
+&nbsp;
 
-Figure 3: Citymaking strategies’
- 
+<table width="95%" height="100%" border="1">
 
-  ---------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  \[Here '4\_2\_hackable city strategies\_knowledge'\]             A Knowledge Community is a group of people with certain expertise, gained either by education or by intense occupation with a given issue, who are willing to come together and share their knowledge both among themselves and externally. Knowledge Communities are useful to hackable citymaking because they form the first step of creating a pool of collective intelligence and allow participants to learn from each other. It’s also a way to institutionalize the knowledge gained in a project and make it available for those who join later. These communities can take the form of physical gatherings, such as a ‘knowledge café’, or knowledge can be exchanged and codified through mailing lists, forums, social media groups, blogs or wikis.
-                                                                   
-  **Knowledge Communities**                                        
+<tr>
 
-  \[Here '4\_3\_hackable city strategies\_communitymarket'\]       By establishing Community Marketplaces, the members of a group can gain access to products, services, and experiences delivered by their fellow members and exchange them on a peer-to-peer basis. They can take the form of online platforms, social media self-organized groups or mobile phone apps. The exchange of goods and services can be voluntary, or financially rewarded. Sometimes, alternative bookkeeping systems are used (such as time banks).
-                                                                   
-  **Community Marketplaces**                                       
+<td><img src="images/4_2_hackable city-strategies_knowledge_text.png" />
 
-  \[Here '4\_4\_hackable city strategies\_awareness'\]             Awareness Campaigns serve to make an issue visible to a wider public and are usually a first step to engaging a group of people willing to commit time and resources into an issue. It can also serve as a strategy to disseminate the results of an ideation process. Campaigns can have traditional forms of distributing printed material such as posters or flyers, social media campaigns or can take the form of guerrilla interventions and public art projects. Many projects make use of a combination of offline and online campaigns.
-                                                                   
-  **Awareness Campaigns**                                          
+</td>
 
-  \[Here '4\_5\_hackable city strategies\_capacity'\]              Capacity building is an important step for hackable citymaking initiatives because it allows non-expert members of a community to develop their skills, knowledge and abilities, making them feel more empowered to act in the framework of the initiative’s engagement, ideation and action steps. Tools that contribute to capacity building include co-creation sessions, workshops, design journeys, storytelling or role-playing. Persuasive or serious games can also play a role here.
-                                                                   
-  **Capacity Building**                                            
+<td>
+A Knowledge Community is a group of people with certain
+expertise, gained either by education or by intense occupation
+with a given issue, who are willing to come together and
+share their knowledge both among themselves and externally.
+Knowledge Communities are useful to hackable citymaking
+because they form the first step of creating a pool of collective intelligence and allow participants to learn from each other.
+It’s also a way to institutionalize the knowledge gained in a
+project and make it available for those who join later. These
+communities can take the form of physical gatherings, such
+as a ‘knowledge café’, or knowledge can be exchanged and
+codified through mailing lists, forums, social media groups,
+blogs or wikis.
+</td>
 
-  \[Here '4\_6\_hackable city strategies\_visualize'\]             A way to make collected data operational is to present it in a way that it can reveal opportunities for ideation and action. In order to visualize development opportunities, one can employ, among others, tools such as infographics and data visualizations, stakeholder mapping, digital fieldwork and systems maps. The idea is to present (real-time) data analysis in such a way that participants can easily find out where opportunities for action are available.
-                                                                   
-  **Visualizing Development Opportunities**                        
+</tr>
 
-  \[Here '4\_7\_hackable city strategies\_governance'\]            Expanding its practices into an institutionalized context and having an influence on a societal scale, a hackable citymaking initiative often needs tools that either improve existing governmental processes or propose alternatives. In order to do that, they need to design new governance frameworks and advocate for their adoption by relevant institutional bodies. In order to achieve that, they might need to write specifications documents and participate in lobbying bodies and organisations.
-                                                                   
-  **Designing Government Frameworks**                              
+<tr>
 
-  \[Here '4\_8\_hackable cities strategies\_commonsmanagement'\]   Under this name, we include all tools that regulate the management of existing resources either by proposing new business models around them or by changing the processes with which communities have access to communal resources such as energy. Tools that contribute to Commons Resources Management can be systems that automate the distribution of the particular resource, like smart meters, incentive giving structures like dynamic pricing, or simple scheduling plans among users.
-                                                                   
-  **Commons Resources Management**                                 
+<td>
+<img src="images/4_3_hackable-city-strategies_communitymarket_text.png" />
+</td>
 
-  \[Here '4\_9\_hackable cities strategies\_trust'\]               Under the term Trust Brokers, we include any kind of activity with the goal of increasing the feeling of belonging and connectedness among community members. Many of the projects in our original research stated ‘community building’ as their primary goal and the tools they used to arrive at that included any kind of low threshold activities, such as collective cooking events, language or dance lessons. Other tools to increase trust among community members can be neighborhood suggestion boxes and informal meetings.
-                                                                   
-  **Trust Brokers**                                                
-  ---------------------------------------------------------------- ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<td>
+By establishing Community Marketplaces, the members of a group can gain access to products, services, and experiences delivered by their fellow members and exchange them on a peer-to-peer basis. They can take the form of online platforms, social media self-organized groups or mobile phone apps. The exchange of goods and services can be voluntary, or financially rewarded. Sometimes, alternative bookkeeping systems are used (such as time banks).
+</td>
 
+</tr>
 
+<tr>
+
+<td>
+<img src="images/4_4_hackable-city-strategies_awareness_text.png.png" />
+</td>
+
+<td>
+Awareness Campaigns serve to make an issue visible to a wider public and are usually a first step to engaging a group of people willing to commit time and resources into an issue. It can also serve as a strategy to disseminate the results of an ideation process. Campaigns can have traditional forms of distributing printed material such as posters or flyers, social media campaigns or can take the form of guerrilla interventions and public art projects. Many projects make use of a combination of offline and online campaigns.
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="images/4_5_hackable-city-strategies_capacity_text.png" />
+</td>
+
+<td>
+Capacity building is an important step for hackable citymaking initiatives because it allows non-expert members of a community to develop their skills, knowledge and abilities, making them feel more empowered to act in the framework of the initiative’s engagement, ideation and action steps. Tools that contribute to capacity building include co-creation sessions, workshops, design journeys, storytelling or role-playing. Persuasive or serious games can also play a role here.
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="images/4_6_hackable-city-strategies_visualize_text.png" />
+</td>
+
+<td>
+A way to make collected data operational is to present it in a way that it can reveal opportunities for ideation and action. In order to visualize development opportunities, one can employ, among others, tools such as infographics and data visualizations, stakeholder mapping, digital fieldwork and systems maps. The idea is to present (real-time) data analysis in such a way that participants can easily find out where opportunities for action are available.
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="images/4_7_hackable-city-strategies_governance_text.png" />
+</td>
+
+<td>
+Expanding its practices into an institutionalized context and having an influence on a societal scale, a hackable citymaking initiative often needs tools that either improve existing governmental processes or propose alternatives. In order to do that, they need to design new governance frameworks and advocate for their adoption by relevant institutional bodies. In order to achieve that, they might need to write specifications documents and participate in lobbying bodies and organisations.
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="images/4_8_hackable-city-strategies_commonsmanagement_text.png" />
+</td>
+
+<td>
+Under this name, we include all tools that regulate the management of existing resources either by proposing new business models around them or by changing the processes with which communities have access to communal resources such as energy. Tools that contribute to Commons Resources Management can be systems that automate the distribution of the particular resource, like smart meters, incentive giving structures like dynamic pricing, or simple scheduling plans among users.
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+<img src="images/4_9_hackable-city-strategies_trust_text.png" />
+</td>
+
+<td>
+Under the term Trust Brokers, we include any kind of activity with the goal of increasing the feeling of belonging and connectedness among community members. Many of the projects in our original research stated ‘community building’ as their primary goal and the tools they used to arrive at that included any kind of low threshold activities, such as collective cooking events, language or dance lessons. Other tools to increase trust among community members can be neighborhood suggestion boxes and informal meetings.
+</td>
+
+</tr>
+
+</table>
 
 
 # Case studies
@@ -1268,7 +1339,6 @@ Figure 3: Citymaking strategies’
 &nbsp;
 
 ## BSH5 
-\[Here '3\_15\_map of Amsterdam'\]
 
 BSH5 is an informal group consisting of the self-builders (a Dutch term
 referring to individuals who are building their own homes, an uncommon
