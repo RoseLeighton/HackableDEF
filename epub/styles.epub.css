@@ -298,3 +298,7 @@ figure {
     margin-top: 0em;
     color: #f23f4e;
     }
+
+span {
+    color: #f23f4e !important
+}

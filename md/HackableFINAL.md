@@ -1344,7 +1344,7 @@ Under the term Trust Brokers, we include any kind of activity with the goal of i
 ![](imgs/HvA_HackableCities_breaker5.png)
 &nbsp;
 
-## BSH5 
+##<span>Case Study</span> BSH5 
 
 BSH5 is an informal group consisting of the self-builders (a Dutch term
 referring to individuals who are building their own homes, an uncommon
@@ -1405,14 +1405,14 @@ self-builders is also criticized. According to the local neighborhood
 blog ‘I love Noord’, the self-builders are trying to create a gated
 community under the guise of child-friendliness and greener
 surroundings.
-<http://www.ilovenoord.nl/2014/07/gated-community-in-buiksloterham/\#sthash.womF934z.gbpl>
+<a href="http://www.ilovenoord.nl/2014/07/gated-community-in-buiksloterham/">www.ilovenoord.nl/2014/07/gated-community-in-buiksloterham/#sthash.womF934z.gbpl</a>
 
 
 ![Figure:example1](images/51BSH5example1.png)
 
 ![Figure:example2](images/51BSH5example2.jpg)
 
-###Running a blog as a knowledge community
+### Running a blog as a knowledge community
 
 BSH5 is a hackable citymaking case in that it brings together two
 parties that have not traditionally collaborated in urban development.
@@ -1493,7 +1493,7 @@ measured or otherwise indicated? And how can the outcomes of these
 processes be fed back into new tender procedures or development
 frameworks?
 
-## Farming the City
+##<span>Case Study</span> Farming the City
 
 
 Farming the City is a research project and online platform investigating
@@ -1543,7 +1543,7 @@ community of landowners, food growers and volunteers.
 
 ![Figure:example2](images/52farmingexample2.jpg)
 
-###Visualizing Development opportunities through online maps
+### Visualizing Development opportunities through online maps
 
 The online platform collected different types of information depending
 on the project, such as location, type (roof, garden, plot etc.), how
@@ -1594,7 +1594,7 @@ sustainable food transportation, and to create a practical guide of
 getting an urban farming project off the ground in the city of
 Amsterdam.
 
-## Join the Pipe 
+##<span>Case Study</span> Join the Pipe 
 
 
 Join the Pipe is a small organization that aims to redefine the drinking
@@ -1631,7 +1631,7 @@ during public events.
 
 ![Figure:example2](images/53pipeexample2.jpg)
 
-###Turning drinking water into a commons
+### Turning drinking water into a commons
 
 Join the Pipe was started in 2008 by a small group of people, contacting
 Municipalities, railway stations, sports clubs and schools, asking them
@@ -1659,7 +1659,7 @@ Finally, significant attention is placed in promoting the design
 bottles. The funny shaped bottles attract attention and are a mobile
 advertisement for the projects.
 
-###Awareness campaigns through social media
+### Awareness campaigns through social media
 
 Join the Pipe is primarily a campaigning organization so the use of
 social media is a big part of their strategy with regular posts on both
@@ -1679,7 +1679,7 @@ bottles themselves, that also have the Join the Pipe message written on
 the bottom. Especially in Africa, where internet use is not common, they
 try to approach local radio stations and work with word of mouth.
 
-## Makers + Co 
+##<span>Case Study</span> Makers + Co 
 
 
 Makers+co is a group of designers that connect crafts with social
@@ -1752,7 +1752,7 @@ for Nieuw West.
 
 ![Figure:example2](images/54makersexample2.jpg)
 
-###Trust brokering and Capacity building through events
+### Trust brokering and Capacity building through events
 
 An important aspect of their work is to bring new technologies closer to
 non-professionals. In many of their activities, they have collaborated
@@ -1773,7 +1773,7 @@ activity get spread and Makers+co use this as an indicator of success
 for their events. People don’t feel exposed and they even feel
 comfortable with showing children online, an aspect that project
 initiator Diana Krabbendam found surprising. The organisation’s website
-“Nieuw West Express” (http://www.nieuwwestexpress.nl/) collects a
+<a href="http://www.nieuwwestexpress.nl/">“Nieuw West Express”</a> collects a
 thorough documentation of all the workshops and the results that come
 out of them. Other common means are flyers, even translated into Arabic
 by a volunteer from the neighborhood and, of course, word of mouth.
@@ -1796,7 +1796,7 @@ more ways to work together. On the other hand, many times Makers+co take
 initiatives and go ahead with them, considering that this is a way to
 work faster and manage expectations better.
 
-## Peerby 
+##<span>Case Study</span> Peerby 
 
 
 Peerby is an online platform and mobile phone app that allows people to
@@ -1854,7 +1854,7 @@ to close the loop.
 
 ![Figure:example2](images/55peerbyexample3.png)
 
-###Commons resources management
+### Commons resources management
 
 The main issues Peerby tries to address are the economic and resource
 crisis, to explore new ways of community forming and experiment with
@@ -1905,7 +1905,7 @@ these new types of activities. The main issues they address with regards
 to governance concern control and taxation of sharing economy
 activities, worker’s rights and insurance of involved parties.
 
-## Ring Ring 
+##<span>Case Study</span> Ring Ring 
 
 Ring-Ring is a citizen-initiated pilot project that campaigns for more
 extensive use of the bicycle by rewarding cycling kilometres. Ring-Ring
@@ -1959,7 +1959,7 @@ cyclists themselves.
 
 ![Figure:example2](images/56ringringexample2.png)
 
-###Awareness campaigns
+### Awareness campaigns
 
 Apart from the iPhone and Android mobile phone app, which is the central
 enabler of engagement and action, Hogendoorm collects all her research
@@ -2017,7 +2017,7 @@ interview, cyclists were gathering points and funds for a WW2 monument,
 and the next collective project was going to be an education project in
 the neighborhood park about animals.
 
-##Verbeter de Buurt
+##<span>Case Study</span> Verbeter de Buurt
 
 
 Verbeterdebuurt is an online platform and mobile phone app that makes
