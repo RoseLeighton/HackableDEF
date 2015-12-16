@@ -1228,7 +1228,7 @@ Figure 2: Citymaking process
 ![Figure 3: Types of 'scapes'](images/41hackablecitystrategies.png)
 &nbsp;
 
-<table width="95%" height="100%" border="1">
+<table border="1">
 
 <tr>
 
