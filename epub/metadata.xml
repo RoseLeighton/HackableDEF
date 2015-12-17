@@ -1,4 +1,4 @@
-<dc:identifier id="epub-id-1">urn:isbn:NNN-NN-NN-NN-n</dc:identifier>
+<dc:identifier id="epub-id-1">urn:isbn:978-94-92171-05-4</dc:identifier>
 <meta refines="#epub-id-1" property="identifier-type" scheme="onix:codelist5">03</meta>
 <dc:title id="epub-title-1">The Hackable City: A Research Manifesto and Design Toolkit</dc:title>
 <meta refines="#epub-title-1" property="title-type">main</meta>
@@ -19,7 +19,7 @@
 <meta refines="#epub-contributor-1" property="role" scheme="marc:relators">edt</meta>
 <dc:contributor id="epub-contributor-2">UNDOG</dc:contributor>
 <meta refines="#epub-contributor-2" property="role" scheme="marc:relators">dsr</meta>
-<dc:contributor id="epub-contributor-3">Jess van Zyl (publishingLab)</dc:contributor>
+<dc:contributor id="epub-contributor-3">Jess van Zyl (PublishingLab)</dc:contributor>
 <meta refines="#epub-contributor-3" property="role" scheme="marc:relators">dsr</meta>
 <dc:rights>Creative Commons
 Attribution-NonCommercial-ShareAlike 4.0 International (CC-BY-NC-SA 4.0)</dc:rights>
